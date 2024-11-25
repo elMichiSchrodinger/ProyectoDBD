@@ -15,7 +15,7 @@ public class DetallePostulacion {
     private String jornadalaboral;
     private int experiencia;
     private String niveleducativo;
-    private String habilidad;
+    private String vacante_habilidad;
     private String vacante_idioma;
     private String vacante_certificacion;
     private double salario;
